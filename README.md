@@ -1,1 +1,1 @@
-Browse at https://adityainvite.netlify.app/
+Browse at https://bougainvilleainvite.netlify.app/
