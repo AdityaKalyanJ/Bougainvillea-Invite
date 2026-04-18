@@ -5,12 +5,12 @@
     "scope": "./",
     "icons": [
       {
-        "src": "icon_1.png",
+        "src": "images/bougainvillea_logo.png.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "icon_1.png",
+        "src": "images/bougainvillea_logo.png.png",
         "sizes": "512x512",
         "type": "image/png"
       }
